@@ -1,0 +1,26 @@
+{
+  "name": "nodegraphsql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-node5": "^12.0.1",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "faker": "^4.1.0",
+    "graphiql": "^0.11.11",
+    "graphql": "^0.12.3",
+    "lodash": "^4.17.4",
+    "npm": "^5.6.0",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.32.3"
+  },
+  "devDependencies": {}
+}
